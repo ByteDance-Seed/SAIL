@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/SAIL-Project Page-yellow"></a>
   <a href="https://arxiv.org/abs/2504.10462">
     <img src="https://img.shields.io/badge/SAIL-Tech Report-red"></a>
-  <a href="XXXX">
+  <a href="https://huggingface.co/ByteDance-Seed/SAIL-7B">
     <img src="https://img.shields.io/badge/SAIL-Hugging Face-orange"></a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-Apache2.0-blue"></a>
