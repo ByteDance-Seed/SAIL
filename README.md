@@ -154,7 +154,7 @@ print(f"\nModel Response: ===\n{response}\n===")
 # Features
 - SAIL as an MLLM, check our model at [huggingface](https://huggingface.co/ByteDance-Seed/SAIL-7B).
 - SAIL as a Vision Encoder, check our model at [huggingface](https://huggingface.co/models/ByteDance-Seed/SAIL-7B-PT).
-- Explore [Pixel SAIL](https://github.com/bytedance/Pixel-SAIL), using SAIL For Pixel-Grounded Understanding.
+- Explore [Pixel SAIL](https://github.com/magic-research/Sa2VA), using SAIL For Pixel-Grounded Understanding.
 
 
 # Acknowledgement
