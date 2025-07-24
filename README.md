@@ -1,6 +1,6 @@
 # The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer (SAIL)
 <p align="center">
-  <a href="https://github.com/bytedance/flux">
+  <a href="https://github.com/bytedance/SAIL">
     <img src="https://img.shields.io/badge/SAIL-Project Page-yellow"></a>
   <a href="https://arxiv.org/abs/2504.10462">
     <img src="https://img.shields.io/badge/SAIL-Tech Report-red"></a>
