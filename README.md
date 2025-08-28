@@ -25,7 +25,7 @@ We are extremely delighted to release SAIL, a **S**ingle tr**A**nsformer model f
 </div>
 
 # News
-- [2025/06/26] SAIL is accepted to ICCV 2025.
+- [2025/06/26]🎉SAIL is accepted to ICCV 2025 (Highlight).
 - [2025/04/02]🔥We release SAIL models and technical report.
 
 
