@@ -148,11 +148,13 @@ This project is licensed under Apache2.0. See the [LICENSE](LICENSE). flie for d
 If you find SAIL useful for your research and applications, feel free to give us a star ⭐ or cite us using:
 
 ```bibtex
-@article{lei2025sail,
-  title={The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer},
-  author={Lei, Weixian and Wang, Jiacong and Wang, Haochen and Li, Xiangtai and Liew, Jun Hao and Feng, Jiashi and Huang, Zilong},
-  journal={arXiv preprint arXiv:2504.10462},
-  year={2025}
+@InProceedings{Lei_2025_ICCV,
+    author    = {Lei, Weixian and Wang, Jiacong and Wang, Haochen and Li, Xiangtai and Liew, Jun Hao and Feng, Jiashi and Huang, Zilong},
+    title     = {The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {20758-20769}
 }
 ```
 
